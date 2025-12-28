@@ -38,7 +38,7 @@ c. Power BI:
   - Bookmarks for interactive storytellings
 
 
-### Data Analysis
+## Data Analysis
 
 ```sql
 -- ATTRITION RATE BY DEPARTMENT
@@ -84,8 +84,20 @@ ORDER BY job_satisfaction;
 	-- Satisfied with the role
 ```
 
-## Dashboard Screenshot
+## Project Dashboard
 
-<img width="641" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/e2fc506c-47a4-4e10-95b7-576eac7b0e76" />
+<img width="637" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/999e08d7-3018-42bc-a9ee-1deb2d7beeea" />
 
+## Key Performance Indicators (KPIs)
+
+The dashboard highlights the following HR-focused KPIs:
+
+-	Total Employee – Total number of employees in the dataset.
+-	Total Attrition – Total number of employees who left the company.
+-	Overall Attrition Rate (%) – Percentage of employees who left, calculated as (Attrition Count / Employee Count) * 100.
+-	Average Age – Mean age of employees.
+-	Average Tenure (Years) – Average length of service across employees.
+-	Average Monthly Income ($) – Mean salary across employees.
+
+<img width="523" height="47" alt="KPI&#39;S" src="https://github.com/user-attachments/assets/b8e9fe62-66c2-4683-924f-1b7f3b3f1e10" />
 
