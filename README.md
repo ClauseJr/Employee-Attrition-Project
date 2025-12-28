@@ -116,7 +116,9 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 -	Hinger attrition rates on Male employees who were Divorced and also Married compared Female employees whose attritions' rate were higher when Single.
 -	Male employees had a higher attrition rate compared to Female employees though with a minimal difference
 
+<img width="182" height="116" alt="Line Graphs" src="https://github.com/user-attachments/assets/e2b26a96-cf33-496a-989a-3336bdf8e7e4" />
 <img width="364" height="117" alt="Analysis Graphs" src="https://github.com/user-attachments/assets/4f6de9d6-4191-4500-8663-2f75368ee6b4" />
+<img width="176" height="113" alt="bar analysis" src="https://github.com/user-attachments/assets/b78f75e2-1f62-4d9c-9742-d1ba919be3be" />
 
 
 
