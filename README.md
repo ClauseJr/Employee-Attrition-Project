@@ -116,9 +116,26 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 -	Hinger attrition rates on Male employees who were Divorced and also Married compared Female employees whose attritions' rate were higher when Single.
 -	Male employees had a higher attrition rate compared to Female employees though with a minimal difference
 
-<img width="182" height="116" alt="Line Graphs" src="https://github.com/user-attachments/assets/e2b26a96-cf33-496a-989a-3336bdf8e7e4" />
+<img width="174" height="119" alt="pie age" src="https://github.com/user-attachments/assets/ddaecd07-4627-43ff-b8ac-ee9208984d87" />
 <img width="364" height="117" alt="Analysis Graphs" src="https://github.com/user-attachments/assets/4f6de9d6-4191-4500-8663-2f75368ee6b4" />
 <img width="176" height="113" alt="bar analysis" src="https://github.com/user-attachments/assets/b78f75e2-1f62-4d9c-9742-d1ba919be3be" />
+
+### 3.	 Job Roles & Departments
+-	Finance Representatives experienced the highest attrition rate.
+-	Sales also showed above-average turnover.
+-	Technical roles (e.g. HR, IT) had lower attrition, suggesting job specialization may increase retention.
+
+### 4.	Tenure & Experience
+-	Employees in their first 2-10 years were most likely to leave.
+-	Long-tenured employees (>20 years) showed extremely high attrition.
+-	This highlights the importance of investing in early career development, mentorship and career transition support.
+
+### 5.	Compensation & Income
+-	Employees in lower salary brackets were less likely to leave.
+	-	This highlights the possibility of them not getting another job easly hence high retention
+-	Middle salary ranges had the highest attrition rates.
+-	Very high earners occasionally showed attrition, potentially linked to external opportunities and higher offer bids.
+
 
 
 
