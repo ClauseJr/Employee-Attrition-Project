@@ -16,7 +16,7 @@ The interactive Power BI dashboard enables HR to:
   -  Identify high-risk groups to design targeted retention strategies.
 
 ### Data Sources
-The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com/)
+The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com/), containing 10,000 employee records.
 
 Get the whole dataset here [Employee_attrition_data](https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset?select=employee_attrition_dataset_10000.csv)
 
@@ -100,4 +100,24 @@ The dashboard highlights the following HR-focused KPIs:
 -	Average Monthly Income ($) – Mean salary across employees.
 
 <img width="523" height="47" alt="KPI&#39;S" src="https://github.com/user-attachments/assets/b8e9fe62-66c2-4683-924f-1b7f3b3f1e10" />
+
+These KPIs serve as benchmarks for HR leaders to measure retention and identify the main problem areas.
+
+## Key Areas of Analysis
+
+### 1.	Attrition Overview
+
+-	Overall attrition rate across the company.
+-	Comparison of attrition vs. retention.
+-	Total active employees and leavers.
+
+### 2.	Demographics
+-	Younger employees (<35yrs) had nearly 2x the attrition rate compared to older employees.
+-	Hinger attrition rates on Male employees who were Divorced and also Married compared Female employees whose attritions' rate were higher when Single.
+-	Male employees had a higher attrition rate compared to Female employees though with a minimal difference
+
+<img width="364" height="117" alt="Analysis Graphs" src="https://github.com/user-attachments/assets/4f6de9d6-4191-4500-8663-2f75368ee6b4" />
+
+
+
 
