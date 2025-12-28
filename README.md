@@ -20,6 +20,24 @@ The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com
 
 Get the whole dataset here [Employee_attrition_data](https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset?select=employee_attrition_dataset_10000.csv)
 
+### Tools Used
+a. Excel:
+  - Power Query for data cleaning and transformation
+  - Pivot Tables for initial analysis
+  - XLOOKUP for data validation
+    
+b.  SQL
+  - Data Collection and Transformation
+  - Trend Analysis
+  - Explanatory analysis and Predictive preparation
+     
+c. Power BI:
+  - Power Query Editor for data modeling
+  - DAX for calculated measures and columns
+  - Custom visuals
+  - Bookmarks for interactive storytellings
+
+
 ## Dashboard Screenshot
 
 <img width="641" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/e2fc506c-47a4-4e10-95b7-576eac7b0e76" />
