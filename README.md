@@ -58,5 +58,33 @@ GROUP BY department
 ORDER BY attrition_rate DESC;
 -- Finace and IT experienced a higher attrition rate of 20%
 -- There was a low attrition rate of 1%-2%, between the highest and the lowest rates per department
+
+-- ATTRITION RATE BY JOB SATISFACTION 
+
+SELECT
+    job_satisfaction,
+    COUNT(*) total_employees,
+    SUM(CASE WHEN attrition = 'No' THEN 1 ELSE 0 END) current_employees,
+    SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) attrition_count,
+    ROUND(
+        SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*),
+        2
+    ) attrition_rate
+FROM employee_attrition_data
+GROUP BY job_satisfaction
+ORDER BY job_satisfaction;
+-- Job satisfaction 1 - Disatisfied
+	-- Experienced a relatively lower attrition rate of 19.17%
+	-- Financial constraints preventing job change
+	-- Toxic environment but afraid to leave
+-- Job satisfaction 2 - At least Satisfied
+-- Job satisfaction 3 - Moderatetly satisfied
+-- Job satisfaction 4 - Satisfied
+	-- Experienced the highest attrition rate of 22.16%
+	-- Satisfied with current role but see no advancement path
+	-- Not satisfied enough to resist better offers
+-- Job satisfaction 5 - Very Satisfied
+	-- Experienced the Lowest attrition rate of 18.71%
+	-- Satisfied with the role
 ```
 
