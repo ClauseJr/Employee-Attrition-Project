@@ -38,10 +38,6 @@ c. Power BI:
   - Bookmarks for interactive storytellings
 
 
-## Dashboard Screenshot
-
-<img width="641" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/e2fc506c-47a4-4e10-95b7-576eac7b0e76" />
-
 ### Data Analysis
 
 ```sql
@@ -87,4 +83,9 @@ ORDER BY job_satisfaction;
 	-- Experienced the Lowest attrition rate of 18.71%
 	-- Satisfied with the role
 ```
+
+## Dashboard Screenshot
+
+<img width="641" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/e2fc506c-47a4-4e10-95b7-576eac7b0e76" />
+
 
