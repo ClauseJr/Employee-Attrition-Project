@@ -20,7 +20,8 @@ The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com
 
 Get the whole dataset here [Employee_attrition_data](https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset?select=employee_attrition_dataset_10000.csv)
 
-### Tools Used
+---
+## Tools Used
 a. Excel:
   - Power Query for data cleaning and transformation
   - Pivot Tables for initial analysis
@@ -36,7 +37,8 @@ c. Power BI:
   - DAX for calculated measures and columns
   - Custom visuals
   - Bookmarks for interactive storytellings
-
+    
+---
 
 ## Data Analysis
 
@@ -84,9 +86,13 @@ ORDER BY job_satisfaction;
 	-- Satisfied with the role
 ```
 
+---
+
 ## Project Dashboard
 
 <img width="637" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/999e08d7-3018-42bc-a9ee-1deb2d7beeea" />
+
+---
 
 ## Key Performance Indicators (KPIs)
 
@@ -102,6 +108,8 @@ The dashboard highlights the following HR-focused KPIs:
 <img width="523" height="47" alt="KPI&#39;S" src="https://github.com/user-attachments/assets/b8e9fe62-66c2-4683-924f-1b7f3b3f1e10" />
 
 These KPIs serve as benchmarks for HR leaders to measure retention and identify the main problem areas.
+
+---
 
 ## Key Areas of Analysis
 
@@ -136,7 +144,9 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 -	Middle salary ranges had the highest attrition rates.
 -	Very high earners occasionally showed attrition, potentially linked to external opportunities and higher offer bids.
 
+<img width="176" height="113" alt="bar analysis" src="https://github.com/user-attachments/assets/11a48c36-aff4-4a3e-9bd9-4123a4e5e5e0" />
 
+---
 
 
 
