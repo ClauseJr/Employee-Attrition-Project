@@ -43,13 +43,16 @@ c. Power BI:
 <img width="641" height="410" alt="Main Dashboard " src="https://github.com/user-attachments/assets/e2fc506c-47a4-4e10-95b7-576eac7b0e76" />
 
 ### Data Analysis
-```-- ATTRITION RATE BY DEPARTMENT
-SELECT 
+
+```sql
+-- ATTRITION RATE BY DEPARTMENT
+
+SELECT
   department,
   COUNT(*) employee_count,
   SUM(CASE WHEN attrition = 'No' THEN 1 ELSE 0 END) current_employees,
   SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) attrition_count,
-  ROUND(SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) * 100 / COUNT(*), 2 ) attrition_rate -- 100% exit
+  ROUND(SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) * 100 / COUNT(*), 2 ) attrition_rate
 FROM employee_attrition_data
 GROUP BY department
 ORDER BY attrition_rate DESC;
