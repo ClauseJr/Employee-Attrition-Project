@@ -202,4 +202,7 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 ---
 
 ## References
+1.	SQL for Data Engineering [Data with Baraa](https://www.youtube.com/watch?v=SSKVgrwhzus)
+2.	Data Analytics with [Chandoo](https://www.youtube.com/results?search_query=chandoo)
 
+--- 
