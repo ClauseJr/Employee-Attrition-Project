@@ -193,3 +193,13 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 
 ---
 
+## Limitations & Caveats
+
+-	The dataset is based on HR Analytics Attrition dataset and may not fully reflect a real company.
+-	Some variables (e.g., work-life balance) are self-reported, making them subjective and potentially biased.
+-	External factors not included in the dataset (e.g. geographic job market conditions) may also influence attrition.
+
+---
+
+## References
+
