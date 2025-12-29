@@ -173,3 +173,23 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 
 ---
 
+## Recommendations
+
+-	Onboarding & Mentorship
+  
+	Strengthen onboarding programs and provide structured career development support during the first 10 years of employment.
+
+-	Compensation Review
+  
+	Reevaluate salary bands and incentive structures, particularly for Middle levels and finance employees.
+
+-	Retention Programs by Demographic
+  
+	Design retention programs around life stages rather than gender, with special attention to employees undergoing life transitions (divorce, new singles, etc.).
+
+-	Work-Life Balance Programs
+  
+	Expand flexible work options and well-being initiatives, especially targeting younger employees who report higher attrition rates.
+
+---
+
