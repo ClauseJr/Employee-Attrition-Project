@@ -148,5 +148,28 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 
 ---
 
+## Executive Insights
 
+### 1.	Early Career Risk
+
+-	Employees with less than 10 years of tenure are the most vulnerable to attrition.
+-	Highlights the importance of targeted retention strategies during the early stages of employment.
+
+### 2.	Role-Specific Turnover
+
+-	Finance Representatives and Marketing staffs experience the highest turnover rates.
+-	These functions require tailored retention initiatives to address unique challenges.
+
+### 3.	Demographic Factors
+
+-	Younger employees and those with middle salaries are more likely to leave.
+-	Suggests that good working environment and job satisfaction opportunities may reduce attrition within these groups.
+
+### 4.	Compensation
+
+-	Salary is strongly correlated with retention but based on the experience.
+-	Employees in middle income brackets and high-level earners are significantly more likely to leave compared to low income earners. 
+-	This is due to the experience and better offers from other companies.
+
+---
 
